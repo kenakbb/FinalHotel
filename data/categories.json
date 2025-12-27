@@ -1,0 +1,46 @@
+[
+    {
+        "roomname": "Family Room",
+        "room_qnty": 5,
+        "available": 5,
+        "booked": 0,
+        "no_bed": 2,
+        "bedtype": "double",
+        "facility": "Sofa, TV, WIFI, Balcony, AC, Mini Bar",
+        "price": 3500,
+        "description": "Spacious family room perfect for 3-4 members with separate sitting area."
+    },
+    {
+        "roomname": "Super Comfort",
+        "room_qnty": 5,
+        "available": 5,
+        "booked": 0,
+        "no_bed": 1,
+        "bedtype": "double",
+        "facility": "AC, TV, WIFI, Coffee Maker, Work Desk",
+        "price": 2200,
+        "description": "Comfortable room with premium amenities for business travelers."
+    },
+    {
+        "roomname": "Duplex Suite",
+        "room_qnty": 5,
+        "available": 5,
+        "booked": 0,
+        "no_bed": 2,
+        "bedtype": "single",
+        "facility": "AC, TV, Wifi, Kitchenette, Living Area",
+        "price": 1500,
+        "description": "Two-level suite with separate bedroom and living area."
+    },
+    {
+        "roomname": "Presidential Suite",
+        "room_qnty": 2,
+        "available": 2,
+        "booked": 0,
+        "no_bed": 3,
+        "bedtype": "king",
+        "facility": "Private Pool, Jacuzzi, Butler Service, Dining Area, Bar",
+        "price": 8500,
+        "description": "Ultimate luxury suite with panoramic views and premium services."
+    }
+]
